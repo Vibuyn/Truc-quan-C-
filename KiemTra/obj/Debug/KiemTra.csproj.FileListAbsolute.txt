@@ -1,0 +1,3 @@
+D:\Lap trinh truc quan\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.AssemblyReference.cache
+D:\Lap trinh truc quan\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.SuggestedBindingRedirects.cache
+D:\Lap trinh truc quan\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
